@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "780355193878",
+    "firebase_url": "https://reactbootcamp-83045.firebaseio.com",
+    "project_id": "reactbootcamp-83045",
+    "storage_bucket": "reactbootcamp-83045.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780355193878:android:2c614f6c47fade03",
+        "android_client_info": {
+          "package_name": "example.expo.firebaseauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780355193878-jffdhqceoqfl35sft7brgkgmo7pvg1t6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPHj0K_aIQdkwLfdiiUow2PykWVVhcwjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780355193878-jffdhqceoqfl35sft7brgkgmo7pvg1t6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "780355193878-utkf9u4rg0ehik52mmvvc9l2htjjn5e0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "GoogleSignInIOS"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
